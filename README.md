@@ -7,4 +7,4 @@ micro app
   
 设想的效果如下图所示： 
 
-![alt 整体架构](./images/micro-constructor.png "整体架构")
+<img src="./images/micro-constructor.png" width="600" />
